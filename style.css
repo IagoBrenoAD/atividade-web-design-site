@@ -1,9 +1,6 @@
-<<<<<<< HEAD
-=======
 img{
   max-height: 80%;
 }
->>>>>>> 18d5db8e38761aa084f159816579ef49acc4c09b
 header{
   display: flex;
   border: 1px solid black;
@@ -12,9 +9,6 @@ header{
   align-items: center;
   padding-left: 1rem;
   padding-right: 2rem;
-<<<<<<< HEAD
-=======
-  height:60px;
 }
 footer{
   border: 1px solid black;
@@ -22,7 +16,6 @@ footer{
   display: flex;
   justify-content: center;
   align-items: center;
->>>>>>> 18d5db8e38761aa084f159816579ef49acc4c09b
 }
 img{
   max-height: 100%;
@@ -31,7 +24,6 @@ img{
   display: flex;
   list-style-type: none;
 }
-<<<<<<< HEAD
 .barra{
   border-right: 1px solid black;
   margin-right: 15px;
@@ -53,38 +45,10 @@ aside{
 .divisao{
   display: flex;
 }
-
 footer{
   border: 1px solid black;
   height: 80px;
   display: flex;
   justify-content: center;
   align-items: center;
-=======
-main{
-  border: 1px solid black;  
-  width: 79.5%;
-}
-aside{
-  border: 1px solid black;
-  width: 19%;
-}
-.divisao{
-  display: flex;
-  justify-content: space-between;
-  margin-top: 1rem;
-  margin-bottom: 1rem;
-  height: 36.5rem;
-}
-.menu{
-  display:flex;
-}
-.caixa{
-  margin-right: 15px;
-  padding-right: 15px;
-  border-right: 1px solid black;
-}
-.azul{
-  color:blue;
->>>>>>> 18d5db8e38761aa084f159816579ef49acc4c09b
 }
